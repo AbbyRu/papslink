@@ -203,6 +203,7 @@ p {
 }
 ul {
     padding-left: 20px;
+    justify-content: center;        
 }
 h3{
   text-align: center;
